@@ -2,10 +2,10 @@
 # Usage: ./submit.sh
 
 # 対象ファイルリスト
-TARGET_FILES=(kadai1.c kadai2.c kadai3.c kadai4.c kadai5.c)
+TARGET_FILES=(kadai1.c kadai2.c kadai3.c kadai4.c kadai5.c kadai6.c kadai7.c kadai8.c kadai9.c)
 
 # コミットメッセージ
-COMMIT_MESSAGE="kadai1-5"
+COMMIT_MESSAGE="kadai1-9"
 
 # リモートリポジトリ
 REMOTE_REPOSITORY="origin"
